@@ -1,0 +1,37 @@
+div {
+    color: gray;
+}
+
+h1 {
+    font-weight: 700;
+    color: green;
+}
+
+h2 {
+    color: red;
+}
+
+ul {
+    color: purple;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+ol {
+    color: rgb(111, 111, 46);
+}
+
+.index-h1 {
+    color: blue;
+}
+
+.index-ul {
+    color: orange;
+}
+
+a {
+    color: fuchsia;
+}
